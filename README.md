@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi 👋
+## Contacts
+- Mail: DanyaBasak@mail.ru
+- Telegramm: https://t.me/Flamig_Crow
 <!--
 **FlamingDen/FlamingDen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
